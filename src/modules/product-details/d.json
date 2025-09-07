@@ -1,0 +1,92 @@
+{
+  "brand": "brand:38z1m8pikxmqfd8iar4e",
+  "brand_details": {
+    "created_at": "2025-02-13T07:21:03.778Z",
+    "id": "brand:38z1m8pikxmqfd8iar4e",
+    "medias": [
+      "https://pub-4102cf85b0404c5d84ab2f2a70770c11.r2.dev/brands/soundpeats.webp"
+    ],
+    "slug": "soundpeats",
+    "status": "ACTIVE",
+    "title": "Soundpeats",
+    "updated_at": "2025-02-13T07:21:03.778Z"
+  },
+  "category": "category:92a74pl29v69iwzr1kc7",
+  "category_details": {
+    "created_at": "2025-02-13T08:28:14.175Z",
+    "description": "Wireless earbuds offering high-quality sound, noise cancellation, and long battery life.",
+    "id": "category:92a74pl29v69iwzr1kc7",
+    "medias": [
+      "https://pub-4102cf85b0404c5d84ab2f2a70770c11.r2.dev/categories/true-wireless-buds.webp"
+    ],
+    "slug": "true-wireless-earbuds",
+    "status": "DEACTIVE",
+    "title": "True Wireless Earbuds",
+    "updated_at": "2025-02-13T08:28:14.175Z"
+  },
+  "created_at": "2025-01-29T07:18:52.841147Z",
+  "description": "<h2 class=\"font-bold text-lg\"><strong>SoundPEATS T3 Pro ANC TWS Earbuds</strong></h2><p>SoundPEATS T3 Pro ANC TWS Earbuds are perfect for anyone who wants great sound and comfort. Active Noise Cancelling (ANC) helps block out background noise so you can focus and if you need to hear what's around you just switch to Transparency Mode. Can connect easily with Bluetooth 5.2 for a stable and energy-saving experience. Sound+ AI ensures clear conversations by reducing surrounding noise. With 19 hours of playtime and a sleek case that shows battery levels the T3 Pro is ideal for everyday use.</p>",
+  "features": [
+    "A tap on SOUNDPEATS T3 blocks noise up to 24dB for peaceful listening",
+    "The T3 earbuds last 5.5 hours per charge with low energy Bluetooth 5.2",
+    "SoundPEATS T3 uses AI noise cancellation to pick up your voice clearly in noise",
+    "The matte black case shows battery levels with green yellow and red indicators",
+    "Enjoy up to 19 hours of playtime for uninterrupted listening with SOUNDPEATS T3."
+  ],
+  "id": "product:09v4hyxdik8kg5z3aico",
+  "medias": [
+    "https://pub-4102cf85b0404c5d84ab2f2a70770c11.r2.dev/Soundpeats%20T3%20Pro%20ANC/Soundpeats%20T3%20Pro%20ANC-Black..png",
+    "https://pub-4102cf85b0404c5d84ab2f2a70770c11.r2.dev/Soundpeats%20T3%20Pro%20ANC/Soundpeats%20T3%20Pro%20ANC-Black.2.png",
+    "https://pub-4102cf85b0404c5d84ab2f2a70770c11.r2.dev/Soundpeats%20T3%20Pro%20ANC/Soundpeats%20T3%20Pro%20ANC-Black.3.png"
+  ],
+  "pricing": {
+    "compareAtPrice": 1960,
+    "costPerItem": 1650,
+    "price": 2050
+  },
+  "slug": "soundpeats-t3-pro-anc-tws-earbuds",
+  "specs": [
+    {
+      "key": "Brand",
+      "value": "SoundPEATS"
+    },
+    {
+      "key": "Bluetooth\t",
+      "value": "5.2"
+    },
+    {
+      "key": "Model",
+      "value": "SoundPEATS T3 Pro ANC TWS Earbuds"
+    },
+    {
+      "key": "Battery capacity\t",
+      "value": "320 mAH (Case) | 40*2 mAH(Earbuds)"
+    },
+    {
+      "key": "Interface / Port\t",
+      "value": "USB-C"
+    },
+    {
+      "key": "Sweat & Water Resistance\t",
+      "value": "IPX4"
+    },
+    {
+      "key": "Other Features / Info\t",
+      "value": "Earbuds Charging Time: 1.5 hours | Charging Case Charging Time: 2 hours | Playtime Time: 19 hours"
+    }
+  ],
+  "status": "ACTIVE",
+  "title": "SoundPEATS T3 Pro ANC TWS Earbuds",
+  "updated_at": "2025-02-25T16:40:58.020832847Z",
+  "variants": [
+    {
+      "color_code": "#000000",
+      "color_name": "Black",
+      "compareAtPrice": 1960,
+      "costPerItem": 1650,
+      "price": 2050,
+      "quantity": 0,
+      "sku": ""
+    }
+  ]
+}
